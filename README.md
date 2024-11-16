@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=asd42270&show_icons=true&theme=dark)">
+  </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -28,7 +30,10 @@
       <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=GitHub&logoColor=white"/>
   </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asd42270)](https://solved.ac/asd42270/)
+<p align="center">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asd42270" alt="Solved.ac Profile" style="margin-right: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asd42270" alt="Top Languages">
+</p>
 <!--
 **asd42270/asd42270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
