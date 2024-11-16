@@ -27,6 +27,8 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=GitHub&logoColor=white"/>
       <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=GitHub&logoColor=white"/>
   </p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asd42270)](https://solved.ac/asd42270/)
 <!--
 **asd42270/asd42270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
